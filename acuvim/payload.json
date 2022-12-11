@@ -1,0 +1,66 @@
+{
+    "Device_ID": "gon_001",
+    "Timestamp": "2022-12-11T20:57:28+07:00",
+    "Powermeter": {
+     "PM_ID": 6,
+     "Data": {
+      "Frequency": 50.01,
+      "Voltage": {
+       "Phase2Netral": {
+        "Phase_1": 60.096283,
+        "Phase_2": 60.22228,
+        "Phase_3": 60.388557,
+        "Avg": 60.2357
+       },
+       "Phase2Phase": {
+        "L1_L2": 104.1914,
+        "L2_L3": 104.44371,
+        "L3_L1": 104.19157,
+        "Avg": 104.27555
+       }
+      },
+      "Current": {
+       "Phase_1": 0.6719147,
+       "Phase_2": 0.7477179,
+       "Phase_3": 0.7597437,
+       "Avg": 0.7264587,
+       "Netral": 0.15716234
+      },
+      "Power": {
+       "Active": {
+        "Phase_1": 39.234097,
+        "Phase_2": 43.895905,
+        "Phase_3": 44.078564,
+        "Total": 127.20857
+       },
+       "Reactive": {
+        "Phase_1": 9.193571,
+        "Phase_2": 9.799234,
+        "Phase_3": 11.455179,
+        "Total": 30.447985
+       },
+       "Apparent": {
+        "Phase_1": 40.423054,
+        "Phase_2": 45.118233,
+        "Phase_3": 45.709995,
+        "Total": 131.25128
+       }
+      },
+      "PowerFactor": {
+       "Phase_1": 0.97058713,
+       "Phase_2": 0.9729083,
+       "Phase_3": 0.9643091,
+       "Total": 0.9691987
+      },
+      "Unbalance": {
+       "Voltage": 0,
+       "Current": 0.047875475
+      },
+      "PowerDemand": {
+       "Active": 126.97453,
+       "Reactive": 30.055779,
+       "Apparent": 130.9403
+      }
+     }
+    }
+   }
